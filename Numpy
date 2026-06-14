@@ -1,0 +1,27 @@
+# NumPy Basics
+
+## What is NumPy?
+NumPy (Numerical Python) is a Python library used for numerical computations and working with arrays.
+
+## Why NumPy?
+- Faster than Python lists
+- Supports multi-dimensional arrays
+- Used in Data Science and Machine Learning
+- Foundation for Pandas and many ML libraries
+
+## Key Concepts
+- Arrays
+- Array Creation
+- Array Indexing
+- Array Operations
+
+## What I Learned Today
+- Learned what NumPy is and why it is important.
+- Understood the advantages of NumPy over Python lists.
+- Explored the key concepts of arrays and numerical computing.
+
+## Next Topics
+- Creating Arrays
+- Array Operations
+- Reshaping Arrays
+- Statistical Functions
