@@ -25,3 +25,9 @@ NumPy (Numerical Python) is a Python library used for numerical computations and
 - Array Operations
 - Reshaping Arrays
 - Statistical Functions
+
+## NumPy Advantages
+- Faster than Python lists
+- Uses less memory
+- Supports vectorized operations
+- Essential for Data Science and Machine Learning
