@@ -8,14 +8,17 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - Develop real-world AI projects
 - Prepare for advanced studies and industry opportunities
 
-## Progress
+## 📈 Learning Progress
+
 - [x] Machine Learning Basics
-- [ ] Python for Data Science
-- [ ] Pandas
-- [ ] NumPy
+- [x] Python for Data Science
+- [x] NumPy Basics
+- [x] NumPy Examples
+- [ ] Pandas Basics
 - [ ] Data Visualization
-- [ ] Supervised Learning
-- [ ] NLP Fundamentals
+- [ ] Machine Learning Algorithms
+- [ ] Deep Learning
+- [ ] NLP
 
 ## Daily Learning Logs
 This repository documents my continuous learning journey and project development.
