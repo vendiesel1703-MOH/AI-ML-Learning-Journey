@@ -14,7 +14,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] Python for Data Science
 - [x] NumPy Basics
 - [x] NumPy Examples
-- [ ] Pandas Basics
+- [x] Pandas Basics
 - [ ] Data Visualization
 - [ ] Machine Learning Algorithms
 - [ ] Deep Learning
