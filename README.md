@@ -21,4 +21,15 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [ ] NLP
 
 ## Daily Learning Logs
-This repository documents my continuous learning journey and project development.
+
+=## Day 1
+- Machine Learning Basics
+
+## Day 2
+- Python for Data Science
+
+## Day 3
+- NumPy Basics and Examples
+
+## Day 4
+- Pandas Basics
