@@ -37,8 +37,10 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 ## Day 4
 - Pandas Basics
 
-- ## Day 5
+## Day 5
 - Data Visualization Basics
 - Matplotlib Basics
 - Created Line Plots
 - Learned Labels, Titles, and Legends
+- Created Bar Charts
+- Learned Histograms
