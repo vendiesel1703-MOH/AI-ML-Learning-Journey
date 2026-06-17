@@ -16,6 +16,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] NumPy Examples
 - [x] Pandas Basics
 - [x] Data Visualization
+- [x] Matplotlib Basics
 - [ ] Machine Learning Algorithms
 - [ ] Deep Learning
 - [ ] NLP
