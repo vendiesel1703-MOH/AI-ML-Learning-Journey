@@ -17,6 +17,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] Pandas Basics
 - [x] Data Visualization
 - [x] Matplotlib Basics
+- [x] Bar Charts
 - [ ] Machine Learning Algorithms
 - [ ] Deep Learning
 - [ ] NLP
