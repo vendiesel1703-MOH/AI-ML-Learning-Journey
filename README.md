@@ -45,3 +45,12 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - Learned Labels, Titles, and Legends
 - Created Bar Charts
 - Learned Histograms
+
+## Day 6
+- Machine Learning Algorithms
+- Learned Supervised Learning
+- Learned Unsupervised Learning
+- Studied Linear Regression
+- Studied Logistic Regression
+- Studied Decision Trees
+- Studied Random Forest
