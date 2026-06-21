@@ -20,7 +20,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] Bar Charts
 - [x] Histogram
 - [x] Scatter Plot
-- [ ] Machine Learning Algorithms
+- [x] Machine Learning Algorithms
 - [ ] Deep Learning
 - [ ] NLP
 
