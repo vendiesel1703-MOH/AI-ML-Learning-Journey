@@ -21,7 +21,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] Histogram
 - [x] Scatter Plot
 - [x] Machine Learning Algorithms
-- [ ] Deep Learning
+- [x] Deep Learning
 - [ ] NLP
 
 ## Daily Learning Logs
@@ -54,3 +54,10 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - Studied Logistic Regression
 - Studied Decision Trees
 - Studied Random Forest
+
+## Day 7
+- Learned Deep Learning Fundamentals
+- Studied Artificial Neural Networks
+- Learned ReLU, Sigmoid and Softmax
+- Studied CNN Architecture
+- Studied RNN Architecture
