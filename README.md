@@ -22,7 +22,7 @@ Welcome to my learning journey in Artificial Intelligence, Machine Learning, Dat
 - [x] Scatter Plot
 - [x] Machine Learning Algorithms
 - [x] Deep Learning
-- [ ] NLP
+- [x] NLP
 
 ## Daily Learning Logs
 
