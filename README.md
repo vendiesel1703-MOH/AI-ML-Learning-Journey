@@ -1,63 +1,129 @@
 # AI & Machine Learning Learning Journey 🚀
 
-Welcome to my learning journey in Artificial Intelligence, Machine Learning, Data Science, NLP, and Data Analytics.
+Welcome to my structured learning journey in:
 
-## Goals
-- Build strong ML fundamentals
-- Learn Data Science tools and techniques
-- Develop real-world AI projects
-- Prepare for advanced studies and industry opportunities
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Science
+- Data Analytics
 
-## 📈 Learning Progress
+---
 
-- [x] Machine Learning Basics
-- [x] Python for Data Science
-- [x] NumPy Basics
-- [x] NumPy Examples
-- [x] Pandas Basics
-- [x] Data Visualization
-- [x] Matplotlib Basics
-- [x] Bar Charts
-- [x] Histogram
-- [x] Scatter Plot
-- [x] Machine Learning Algorithms
-- [x] Deep Learning
-- [x] NLP
+## 🎯 Goals
 
-## Daily Learning Logs
+- Build strong AI/ML fundamentals
+- Master Python for Data Science
+- Learn Machine Learning Algorithms
+- Understand Deep Learning Architectures
+- Explore NLP and Transformers
+- Build Real-World Projects
+- Prepare for AI/ML Internship & Placement Opportunities
 
-=## Day 1
-- Machine Learning Basics
+---
 
-## Day 2
-- Python for Data Science
+## 📚 Learning Roadmap
 
-## Day 3
-- NumPy Basics and Examples
+### ✅ Python for Data Science
+- Python Basics
+- Data Types
+- Functions
+- Loops
+- File Handling
 
-## Day 4
-- Pandas Basics
+### ✅ NumPy
+- Arrays
+- Indexing
+- Slicing
+- Mathematical Operations
 
-## Day 5
-- Data Visualization Basics
-- Matplotlib Basics
-- Created Line Plots
-- Learned Labels, Titles, and Legends
-- Created Bar Charts
-- Learned Histograms
+### ✅ Pandas
+- DataFrames
+- Data Cleaning
+- Data Analysis
+- Data Manipulation
 
-## Day 6
-- Machine Learning Algorithms
-- Learned Supervised Learning
-- Learned Unsupervised Learning
-- Studied Linear Regression
-- Studied Logistic Regression
-- Studied Decision Trees
-- Studied Random Forest
+### ✅ Data Visualization
+- Visualization Concepts
+- Exploratory Data Analysis
 
-## Day 7
-- Learned Deep Learning Fundamentals
-- Studied Artificial Neural Networks
-- Learned ReLU, Sigmoid and Softmax
-- Studied CNN Architecture
-- Studied RNN Architecture
+### ✅ Matplotlib
+- Line Plots
+- Bar Charts
+- Histograms
+- Scatter Plots
+
+### ✅ Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+
+### ✅ Deep Learning
+- Neural Networks
+- Activation Functions
+- CNN
+- RNN
+
+### ✅ Natural Language Processing (NLP)
+- Text Preprocessing
+- Word Embeddings
+- Machine Translation
+- Transformer Architecture
+
+---
+
+## 📅 Learning Progress
+
+| Day | Topic |
+|------|--------|
+| Day 1 | Machine Learning Basics |
+| Day 2 | Python for Data Science |
+| Day 3 | NumPy |
+| Day 4 | Pandas |
+| Day 5 | Data Visualization & Matplotlib |
+| Day 6 | Machine Learning Algorithms |
+| Day 7 | Deep Learning |
+| Day 8 | NLP |
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- NLTK
+- SpaCy
+- Hugging Face Transformers
+
+---
+
+## 🚀 Next Phase
+
+After completing fundamentals, I will build:
+
+### Projects
+
+- House Price Prediction
+- Student Performance Prediction
+- Fake News Detection
+- Sentiment Analysis
+- Resume Screening System
+- Medicine Expiry Prediction System
+- Plant Disease Detection
+
+---
+
+## 👨‍💻 Author
+
+Mohit Nagdeep
+
+B.Tech CSE (AI & Data Science)
+
+Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast
